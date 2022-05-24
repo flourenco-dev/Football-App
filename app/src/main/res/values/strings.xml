@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FootballCodingChallenge</string>
+    <string name="request_error_dialog_title">Request error</string>
+    <string name="request_error_dialog_message">We were unable to get your news, please click OK to try again.</string>
+    <string name="button_ok_label">OK</string>
+</resources>
